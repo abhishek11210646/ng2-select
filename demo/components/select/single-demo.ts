@@ -23,7 +23,7 @@ export class SingleDemoComponent {
     'Rotterdam', 'Seville', 'Sheffield', 'Sofia', 'Stockholm', 'Stuttgart',
     'The Hague', 'Turin', 'Valencia', 'Vienna', 'Vilnius', 'Warsaw', 'Wrocław',
     'Zagreb', 'Zaragoza', 'Łódź'];
-
+//validation for this select.//validation for this select.//validation for this select.
   private value:any = {};
   private _disabledV:string = '0';
   private disabled:boolean = false;
